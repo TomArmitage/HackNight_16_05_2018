@@ -1,0 +1,107 @@
+Names,Descriptions,short_colnames,rda_m,rda_f,rda_m_7_10,rda_f_7_10,ul_m,ul_f
+"FoodNumber","FoodNumber","FoodNumber",NaN,NaN,NaN,NaN,NaN,NaN
+"FoodGroupCode","FoodGroupCode","FoodGroupCode",NaN,NaN,NaN,NaN,NaN,NaN
+"FoodName","FoodName","FoodName",NaN,NaN,NaN,NaN,NaN,NaN
+"FoodCategory","FoodCategory","FoodCategory",NaN,NaN,NaN,NaN,NaN,NaN
+"Base","Base","Base",NaN,NaN,NaN,NaN,NaN,NaN
+"Units","Units","Units",NaN,NaN,NaN,NaN,NaN,NaN
+"Description","Description","Description",NaN,NaN,NaN,NaN,NaN,NaN
+"Dilution","Dilution","Dilution",NaN,NaN,NaN,NaN,NaN,NaN
+"Comment","Comment","Comment",NaN,NaN,NaN,NaN,NaN,NaN
+"EdiblePortion","EdiblePortion","EdiblePortion",NaN,NaN,NaN,NaN,NaN,NaN
+"ACAR","Alpha-carotene (µg)","acar",NaN,NaN,NaN,NaN,NaN,NaN
+"ALCO","Alcohol (g)","Alcohol",NaN,NaN,NaN,NaN,NaN,NaN
+"BCAR","Beta-carotene (µg)","BCar",NaN,NaN,NaN,NaN,NaN,NaN
+"BCRYPT","Beta cryptoxanthin (µg)","BCrypt",NaN,NaN,NaN,NaN,NaN,NaN
+"BIOT","Biotin (µg)","Biot",NaN,NaN,NaN,NaN,NaN,NaN
+"CA","Calcium (mg)","Ca",700,700,550,550,1500,1500
+"CHO","Carbohydrate (g)","Carb",333,267,242,227,NaN,NaN
+"CHOL","Cholesterol (mg)","Chol",NaN,NaN,NaN,NaN,NaN,NaN
+"CL","Chloride (mg)","Cl",2500,2500,1800,1800,NaN,NaN
+"CMON","Cis-Monounsaturated fatty acids (g)","Mono",31,24,26,25,31,24
+"CN3","Cis-n3 fatty acids (g)","Cn3",NaN,NaN,NaN,NaN,NaN,NaN
+"CN6","Cis-n6 fatty acids (g)","Cn6",NaN,NaN,NaN,NaN,NaN,NaN
+"CU","Copper (mg)","Cu",1.2,1.2,0.7,0.7,NaN,NaN
+"ENGFIB","Englyst fibre (g)","Fibre",30,30,20,20,NaN,NaN
+"FAT","Fat (g)","Fat",97,78,71,66,97,78
+"FE","Iron (mg)","Fe",8.7,14.8,8.7,8.7,NaN,NaN
+"FOLT","B9 (Folate) (µg)","B9",200,200,150,150,NaN,NaN
+"FRUCT","Fructose (g)","Fruct",NaN,NaN,NaN,NaN,NaN,NaN
+"GLUC","Glucose (g)","Gluc",NaN,NaN,NaN,NaN,NaN,NaN
+"HFE","Haem iron (mg)","HFe",NaN,NaN,NaN,NaN,NaN,NaN
+"I","Iodine (µg)","I",140,140,110,110,NaN,NaN
+"K","Potassium (mg)","K",3500,3500,2000,2000,NaN,NaN
+"KCALS","Energy (kcal)","kcal",2500,2000,1817,1703,NaN,NaN
+"KJ","Energy (kJ)","kJ",10500,8400,NaN,NaN,NaN,NaN
+"LACT","Lactose (g)","Lac",NaN,NaN,NaN,NaN,NaN,NaN
+"MALT","Maltose (g)","Malt",NaN,NaN,NaN,NaN,NaN,NaN
+"MG","Magnesium (mg)","Mg",300,270,200,200,NaN,NaN
+"MILK","Intrinsic and milk sugars (g)","MilkSug",NaN,NaN,NaN,NaN,NaN,NaN
+"MN","Manganese (mg)","Mn",NaN,NaN,NaN,NaN,NaN,NaN
+"NA","Sodium (mg)","Na",2400,2400,2000,2000,NaN,NaN
+"NCF","Nitrogen conversion factor","NCF",NaN,NaN,NaN,NaN,NaN,NaN
+"NHFE","Non-haem iron (mg)","NhFe",NaN,NaN,NaN,NaN,NaN,NaN
+"NIACEQU","B3 (Niacin equivalent) (mg)","B3",16.5,13.2,12,11.2,NaN,NaN
+"NMILK","Non-milk extrinsic sugars (g)","NMilkSug",33,27,24,23,33,27
+"OSUG","Other Sugars (g)","OSug",NaN,NaN,NaN,NaN,NaN,NaN
+"P","Phosphorus (mg)","P",550,550,450,450,NaN,NaN
+"PANTO","B5 (Pantothenic acid) (mg)","B5",NaN,NaN,NaN,NaN,NaN,NaN
+"PROT","Protein (g)","Prot",55.5,45,28.3,28.3,NaN,NaN
+"RET","Retinol (µg)","Ret",NaN,NaN,NaN,NaN,NaN,NaN
+"RIBO","B2 (Riboflavin) (mg)","B2",1.3,1.1,1,1,NaN,NaN
+"SATFA","Saturated fatty acids (g)","SatFa",31,24,22,21,31,24
+"SE","Selenium (µg)","Se",75,60,30,30,NaN,NaN
+"STAR","Starch (g)","Star",NaN,NaN,NaN,NaN,NaN,NaN
+"SUCR","Sucrose (g)","Sucr",NaN,NaN,NaN,NaN,NaN,NaN
+"THIA","B1 (Thiamin) (mg)","B1",1,0.8,0.7,0.7,NaN,NaN
+"TOTCAR","Total carotene (µg)","TotCar",NaN,NaN,NaN,NaN,NaN,NaN
+"TOTNIT","Total nitrogen (g)","TotNit",NaN,NaN,NaN,NaN,NaN,NaN
+"TOTSUG","Total sugars (g)","TotSug",NaN,NaN,NaN,NaN,NaN,NaN
+"TRANS","Trans fatty acids (g)","Trans",NaN,NaN,NaN,NaN,NaN,NaN
+"VITA","Vitamin A (retinol equivalents) (µg)","A",700,600,500,500,NaN,NaN
+"VITB12","Vitamin B12 (µg)","B12",1.5,1.5,1,1,NaN,NaN
+"VITB6","Vitamin B6 (mg)","B6",1.4,1.2,1,1,NaN,NaN
+"VITC","Vitamin C (mg)","C",40,40,30,30,NaN,NaN
+"VITD","Vitamin D (µg)","D",10,10,10,10,NaN,NaN
+"VITE","Vitamin E (mg)","E",NaN,NaN,NaN,NaN,NaN,NaN
+"WATER","Water (g)","Water",NaN,NaN,NaN,NaN,NaN,NaN
+"ZN","Zinc (mg)","Zn",9.5,7,7,7,NaN,NaN
+"Fruit","Percentage of Fruit","Fruit",NaN,NaN,NaN,NaN,NaN,NaN
+"DriedFruit","Percentage of Fruit Juice","FruitJuice",NaN,NaN,NaN,NaN,NaN,NaN
+"FruitJuice","FruitJuice","FruitJuice",NaN,NaN,NaN,NaN,NaN,NaN
+"SmoothieFruit","Percentage of Smoothie Fruit","SmoothieFruit",NaN,NaN,NaN,NaN,NaN,NaN
+"Tomatoes","Percentage of Tomatoes","Tomatoes",NaN,NaN,NaN,NaN,NaN,NaN
+"TomatoPuree","Percentage of Tomato Puree","TomatoPuree",NaN,NaN,NaN,NaN,NaN,NaN
+"Brassicaceae","Percentage of Brassicaceae","Brassicaceae",NaN,NaN,NaN,NaN,NaN,NaN
+"YellowRedGreen","Percentage of Yellow/Root Vegetables","YellowRedGreen",NaN,NaN,NaN,NaN,NaN,NaN
+"Beans","Percentage of Beans and Pulses","Beans",NaN,NaN,NaN,NaN,NaN,NaN
+"Nuts","Percentage of Nuts","Nuts",NaN,NaN,NaN,NaN,NaN,NaN
+"OtherVeg","Percentage of Other Fruit/Veg","OtherVeg",NaN,NaN,NaN,NaN,NaN,NaN
+"Beef","Percentage of Beef","Beef",NaN,NaN,NaN,NaN,NaN,NaN
+"Lamb","Percentage of Lamb","Lamb",NaN,NaN,NaN,NaN,NaN,NaN
+"Pork","Percentage of Pork","Pork",NaN,NaN,NaN,NaN,NaN,NaN
+"ProcessRedMeat","Percentage of Processed Red Meat","ProcessRedMeat",NaN,NaN,NaN,NaN,NaN,NaN
+"OtherRedMeat","Percentage of Other Red Meat","OtherRedMeat",NaN,NaN,NaN,NaN,NaN,NaN
+"Burgers","Percentage of Burgers & Grill Steaks","Burgers",NaN,NaN,NaN,NaN,NaN,NaN
+"Sausages","Percentage of Sausages","Sausages",NaN,NaN,NaN,NaN,NaN,NaN
+"Offal","Percentage of Offal","Offal",NaN,NaN,NaN,NaN,NaN,NaN
+"Poultry","Percentage of Poultry","Poultry",NaN,NaN,NaN,NaN,NaN,NaN
+"ProcessedPoultry","Percentage of Processed Poultry","ProcessedPoultry",NaN,NaN,NaN,NaN,NaN,NaN
+"GameBirds","Percentage of Game Birds","GameBirds",NaN,NaN,NaN,NaN,NaN,NaN
+"WhiteFish","Percentage of White Fish","WhiteFish",NaN,NaN,NaN,NaN,NaN,NaN
+"OilyFish","Percentage of Oily Fish","OilyFish",NaN,NaN,NaN,NaN,NaN,NaN
+"CannedTuna","Percentage of Canned Tuna","CannedTuna",NaN,NaN,NaN,NaN,NaN,NaN
+"Shellfish","Percentage of Shellfish","Shellfish",NaN,NaN,NaN,NaN,NaN,NaN
+"CottageCheese","Percentage of Cottage Cheese","CottageCheese",NaN,NaN,NaN,NaN,NaN,NaN
+"CheddarCheese","Percentage of Cheddar Cheese","CheddarCheese",NaN,NaN,NaN,NaN,NaN,NaN
+"OtherCheese","Percentage of Other Cheese","OtherCheese",NaN,NaN,NaN,NaN,NaN,NaN
+"AllCheese","Percentage of Cheese (Total)","cheese",NaN,NaN,NaN,NaN,NaN,NaN
+"AllFish","Percentage of Fish (Total)","fish",NaN,NaN,NaN,NaN,NaN,NaN
+"AllMeat","Percentage of Meat (Total)","meat",NaN,NaN,NaN,NaN,NaN,NaN
+"AllAnimal","Percentage of Cheese, Fish, Meat (Total)","animal",NaN,NaN,NaN,NaN,NaN,NaN
+"CO2eRatio","kg CO2e / kg product","CO2eRatio",NaN,NaN,NaN,NaN,NaN,NaN
+"CO2eRef","Reference information for the CO2e number used","CO2eRef",NaN,NaN,NaN,NaN,NaN,NaN
+"CO2eGroup","index to a group of foods with similar CO2e","CO2eGroup",NaN,NaN,NaN,NaN,NaN,NaN
+"FoodDescriptions","Graph/table -friendly food names","FoodDescriptions",NaN,NaN,NaN,NaN,NaN,NaN
+"CO2e","CO2e (g)","CO2e",NaN,NaN,NaN,NaN,NaN,NaN
+"FoodAisle","","FoodAisle (a food categorisation used for grouping foods for plotting)",NaN,NaN,NaN,NaN,NaN,NaN
